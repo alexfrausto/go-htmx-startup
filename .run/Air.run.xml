@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Air" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="startup" />
+    <working_directory value="$PROJECT_DIR$" />
+    <envs>
+      <env name="DB_HOST" value="grupotum.com" />
+      <env name="DB_NAME" value="startup" />
+      <env name="DB_PASS" value="Gp0.TUM.91" />
+      <env name="DB_USER" value="postgres" />
+    </envs>
+    <kind value="PACKAGE" />
+    <package value="startup" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$" />
+    <output_directory value="./tmp" />
+    <method v="2" />
+  </configuration>
+</component>
